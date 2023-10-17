@@ -3,11 +3,10 @@ package br.com.miltonneves.todolist;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
-public class TodolistApplication {
+@RestController
+public class firstController {
 
-    public static void main(String[] args) {
-        SpringApplication.run(TodolistApplication.class, args);
+    public string {
     }
 
 }
